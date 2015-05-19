@@ -1,5 +1,4 @@
 /**
-
  * UI-Router Extras: Sticky states, Future States, Deep State Redirect, Transition promise
  * Module: future
  * @version 0.0.13
